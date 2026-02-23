@@ -37,7 +37,7 @@ This project demonstrates a complete Level 1 Stellar payment flow:
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/Abhishek-singh88/stellar-payment-dapp.git>
+git clone https://github.com/Abhishek-singh88/stellar-payment-dapp.git
 cd stellar-payment-dapp
 ```
 
